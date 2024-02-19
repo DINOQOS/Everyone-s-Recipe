@@ -19,19 +19,26 @@ Springboot를 이용한 프로젝트로 회원가입, 로그인, 게시물, 추�
 - Spring Boot를 활용한 백엔드 실습을 진행하였습니다.
 - Header 부분에서 로그인 및 탭 이동 기능, 검색 기능을 부여했습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c58ce017-aaab-4b35-9205-23c854db3c53/a04af3f4-6e1f-4c20-bd88-532ec88d6c8b/Untitled.png)
+<img src="https://github.com/DINOQOS/Everyone-s-Recipe/assets/113816757/c2e2f7a4-3bc5-452a-b8d7-79eecde6ef22" width="255">
+
+
 
 - 게시글 등록을 원할 경우, 아래와 같은 화면에서 사진, 목록 기능을 포함한 텍스트 형태로 입력한 다음 등록합니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c58ce017-aaab-4b35-9205-23c854db3c53/f9a3d560-c087-4cd4-9a2d-a522789a869e/Untitled.png)
+<img src="https://github.com/DINOQOS/Everyone-s-Recipe/assets/113816757/b0218c86-a5da-4c1d-b605-f668fd9abc4c" width="255">
+
 
 - 작성한 글 목록을 보고 싶다면 게시글 목록 탭을 클릭하여 확인할 수 있습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c58ce017-aaab-4b35-9205-23c854db3c53/8494e198-9c43-4e6b-bc21-da00e86c67c8/Untitled.png)
+<img src="https://github.com/DINOQOS/Everyone-s-Recipe/assets/113816757/31bca96c-0477-4e4c-aa24-05c4e3e5e7c4" width="255">
+
+
 
 - 검색 기능으로, 글의 제목에 작성한 단어가 포함되어 있다면 검색이 되도록 설정했습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c58ce017-aaab-4b35-9205-23c854db3c53/fecbd2e6-51f7-4f35-8e17-aae4b0c4d802/Untitled.png)
+<img src="https://github.com/DINOQOS/Everyone-s-Recipe/assets/113816757/ff68ef51-11b6-4acd-89ec-2aa2dfa13a42" width="255">
+
+
 
 - 이 외에도, 회원 탈퇴를 진행 시 작성했던 모든 글이 전부 삭제되는 기능과 추천수로 게시물을 정렬하는 기능, 음식의 사진을 입력하면 해당 음식이 무엇인지 분류하고 레시피를 검색하는 기능 등을 추가했습니다.
 
