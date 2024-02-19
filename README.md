@@ -14,7 +14,7 @@ Springboot를 이용한 프로젝트로 회원가입, 로그인, 게시물, 추�
 
 작업 순서로는, Entity에 테이블들을 생성후 Jparepository 를 활용하여 workbench 와 상호작용을 하였습니다. 그다음 dto를 생성하여 toEntity toDto 함수를 만들어 서로 왕복을 할 수 있게 하였고, View 을 jsp로 생성하여 사용자에게 입력받게 하였습니다. 그 후 postmapping getmapping annotation을 이용하여 Controller 에 전달한 후, 해당 주소에 해당하는 동작들은 Service 에서 로직을 구현 하였습니다.
 
-![image](https://github.com/DINOQOS/Everyone-s-Recipe/assets/113816757/f5882483-74f9-41a5-a914-6b8c454ec239)
+<img src="https://github.com/DINOQOS/Everyone-s-Recipe/assets/113816757/f5882483-74f9-41a5-a914-6b8c454ec239" width="100">
 
 - Spring Boot를 활용한 백엔드 실습을 진행하였습니다.
 - Header 부분에서 로그인 및 탭 이동 기능, 검색 기능을 부여했습니다.
